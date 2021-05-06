@@ -23,7 +23,7 @@ Dibawah ini adalah alur untuk kalian yang ingin sukses di dunia digital asset kr
 
 ***
 
-<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
+<h3 align="center"><strong>Tujuan Peta Jalan ini</strong></h3>
 
 > Tujuan dari peta jalan ini adalah untuk memberi Anda gambaran tentang lanskap dan memandu Anda. Jika Anda bingung tentang apa yang harus dipelajari selanjutnya berikut adalah gambaran alurnya. Anda harus memahami cara yang cocok untuk sukses dan pada akhirnya berhasil memperoleh kebebasan finansial.
 
