@@ -41,27 +41,22 @@ Kami menerima saran dan perbaikan jika materi dibawah ini memang belum sesempurn
 
 ## Trader Roadmap
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-![Frontend Roadmap](./img/frontend.png?year-2021-2)
+![Trader Roadmap](./img/trader.png?year-2021-2)
 
 ## Holder Roadmap 
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
-
-![Back-end Roadmap](./img/backend.png?year-2021-2)
+![Holder Roadmap](./img/holder.png?year-2021-2)
 
 ## Farm and Stake Roadmap
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
-![DevOps Roadmap](./img/devops.png)
+![Farm and Stake Roadmap](./img/farm.png)
 
 ## Masternode Roadmap
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
-![DevOps Roadmap](./img/devops.png)
+![Masternode Roadmap](./img/masternode.png)
 ## 🚦 Wrap Up
 
 Jika menurut Anda salah satu peta jalan perlu perbaikan, silakan diskusikan dalam masalah. Juga, saya akan terus meningkatkan ini.
